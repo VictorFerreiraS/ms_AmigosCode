@@ -1,4 +1,4 @@
--   This is the first lesson on the AmigosCode tutorial
+- This is the first lesson on the AmigosCode tutorial
   - Created parent module.
     - Started the first microservice it doesn't do anything yet.
 
