@@ -1,5 +1,7 @@
--   This is the first lesson on the amigos code tutorial
+-   This is the first lesson on the AmigosCode tutorial
   - Created parent module.
-    - Started the fist microservice it doesn't do anything yet.
+    - Started the first microservice it doesn't do anything yet.
 
--   In the tutorial he uses Postgres in docker, I used mysql because of hardware limitations;
+- Microservices Using Spring Boot and Spring Cloud #1
+  - Link: https://www.youtube.com/watch?v=p485kUNpPvE
+    - In the tutorial he uses Postgres in docker, I used mysql because of hardware limitations;
