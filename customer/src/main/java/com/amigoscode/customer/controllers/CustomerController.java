@@ -14,7 +14,7 @@ import com.amigoscode.customer.services.CustomerService;
 @RequestMapping("api/v1/customers")
 @AllArgsConstructor
 public class CustomerController {
-    CustomerService customerService;
+    private final CustomerService customerService;
     @PostMapping
     public void registerCustomer(@RequestBody CustomerRegistrationRequest customerRegistrationRequest) {
         log.info("new customer registration {}", customerRegistrationRequest);
